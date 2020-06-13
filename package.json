@@ -1,0 +1,17 @@
+{
+  "name": "term-jack",
+  "version": "1.0.0",
+  "description": "A simple Black Jack game that runs in the terminal window.",
+  "main": "bj.js",
+  "repository": "https://github.com/jrod-disco/term-jack",
+  "author": "Jose R. Rodriguez",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "play": "node bj.js"
+  }
+}
