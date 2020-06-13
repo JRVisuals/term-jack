@@ -9,7 +9,8 @@
   "private": false,
   "dependencies": {
     "colors": "^1.4.0",
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "sleep": "^6.2.0"
   },
   "scripts": {
     "play": "node ./src/bj.js"
